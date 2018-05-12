@@ -18,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9248
     wikipedia: http://en.wikipedia.org/wiki/George_Bell_%28publisher%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26898#Notes-and-Queries-Number-78-April-26-1851--13-A-Medium-of-Inter-communication-for-Literary-Me_
 gutenberg_bookshelf: Notes and Queries
 gutenberg_issued: '2008-10-12'
 gutenberg_type: Text
