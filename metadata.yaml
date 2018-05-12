@@ -1,0 +1,35 @@
+_repo: Notes-and-Queries-Number-78-April-26-1851--13-A-Medium-of-Inter-communication-for-Literary-Me__26898
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+  editor:
+    agent_name: Bell, George
+    alias: Bell, G. (George)
+    birthdate: 1814
+    deathdate: 1890
+    gutenberg_agent_id: '9248'
+    url: http://www.gutenberg.org/2009/agents/9248
+    wikipedia: http://en.wikipedia.org/wiki/George_Bell_%28publisher%29
+description: ''
+gutenberg_bookshelf: Notes and Queries
+gutenberg_issued: '2008-10-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26898'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'AG'
+- !lcsh 'Questions and answers -- Periodicals'
+title: "Notes and Queries, Number 78, April 26, 1851\r\nA Medium of Inter-communication\
+  \ for Literary Men, Artists, Antiquaries, Genealogists, etc."
+url: http://www.gutenberg.org/ebooks/26898
